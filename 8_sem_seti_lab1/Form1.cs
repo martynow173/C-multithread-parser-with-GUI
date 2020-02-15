@@ -16,7 +16,7 @@ namespace _8_sem_seti_lab1
     public partial class Form1 : Form
     {
         private static string connString = "Server=localhost" + ";Database=seti"
-              + ";port=3306" + ";User Id=root" + ";password=89279876093";
+              + ";port=3306" + ";User Id=root" + ";password=********";
         private ImageList imageList1 = new ImageList();
         List<string> imgsInfo = new List<string>();
 
